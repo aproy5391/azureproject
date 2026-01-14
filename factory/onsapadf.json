@@ -1,0 +1,9 @@
+{
+	"name": "onsapadf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a8171a2f-df0a-4c2d-9247-8fb03a06779d",
+		"tenantId": "c337c73d-ce00-4164-8d72-774de9589a61"
+	}
+}
